@@ -95,7 +95,7 @@ http://localhost:3000/tutor_email_system.html
 - 黄士洪  南京农业大学
 - [田雨萱 中科院自动化所](https://github.com/Klingsor-tyx)
 - 王彬宇 南京大学
-- [徐泽远 湖南大学](https://github.com/ikananodesu )
+- [徐泽远 湖南大学](https://github.com/ZeyuanXu-ika)
 - 刘芮彤 北京大学
 - 蔡清苒 西安电子科技大学
 - [张辰 南京大学](https://github.com/yueyueniannian)
