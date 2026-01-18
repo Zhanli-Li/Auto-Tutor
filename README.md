@@ -90,7 +90,6 @@ http://localhost:3000/tutor_email_system.html
 - [刘朝阳 浙江大学](https://github.com/NanaseAsahi/)
 - [杨鹏晖 清华大学](https://github.com/yph22/)
 - [华英凡 中国科学技术大学](https://sui1234bian.github.io/)
-- [汤家福 南京大学](https://github.com/kevin236-max)
 - [赵俊杰 上海交通大学](https://k5urum1z3.github.io/)
 - 黄士洪  南京农业大学
 - [田雨萱 中科院自动化所](https://github.com/Klingsor-tyx)
